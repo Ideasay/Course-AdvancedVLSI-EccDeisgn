@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/zhengxjie/Desktop/test_hamming/work
+vhamming_decoder_8bit
+Z0 !s110 1608557459
+!i10b 1
+!s100 XbW?QTObgP7Rf1IVNPNCa3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1B>h_B9L14H3^k8GTX[^M2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work
+w1608098985
+8C:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_decoder_8bit.v
+FC:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_decoder_8bit.v
+!i122 168
+L0 8 66
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1608557459.000000
+!s107 C:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_decoder_8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_decoder_8bit.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vhamming_encoder_8bit
+R0
+!i10b 1
+!s100 2A31g^_bA6;gH0FIOandA1
+R1
+IE2DlFLR5R7;P;z=5:i^I13
+R2
+R3
+w1608098953
+8C:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_encoder_8bit.v
+FC:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_encoder_8bit.v
+!i122 169
+L0 7 21
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_encoder_8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_encoder_8bit.v|
+!i113 1
+R6
+R7
+vhamming_tb
+!s110 1608557460
+!i10b 1
+!s100 `H8Vl:;mGa0dXXWlQlGRN0
+R1
+IzJ9X5A=Bin4bTFl_XNP3d3
+R2
+R3
+w1607510143
+8C:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_tb.v
+FC:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_tb.v
+!i122 170
+L0 2 89
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_tb.v|
+!i113 1
+R6
+R7

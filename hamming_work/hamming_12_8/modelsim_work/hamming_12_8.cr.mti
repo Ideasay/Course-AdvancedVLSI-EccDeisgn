@@ -1,0 +1,22 @@
+C:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_tb.v {1 {vlog -work work -stats=none C:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hamming_tb
+
+Top level modules:
+	hamming_tb
+
+} {} {}} C:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_encoder_8bit.v {1 {vlog -work work -stats=none C:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_encoder_8bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hamming_encoder_8bit
+
+Top level modules:
+	hamming_encoder_8bit
+
+} {} {}} C:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_decoder_8bit.v {1 {vlog -work work -stats=none C:/Users/zhengxjie/Desktop/ECC/hamming/hamming_12_8/modelsim_work/hamming_decoder_8bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hamming_decoder_8bit
+
+Top level modules:
+	hamming_decoder_8bit
+
+} {} {}}

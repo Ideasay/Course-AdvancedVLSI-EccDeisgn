@@ -1,0 +1,3 @@
+- src：源代码
+- modelsim_work：测试，结果与matlab结果对照
+-MATLAB：生成测试对照组以及需要的GF域乘法器

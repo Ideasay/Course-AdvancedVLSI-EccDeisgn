@@ -1,0 +1,7 @@
+- src：源代码
+- modelsim_work：批量测试
+	-transcript ：测试记录
+	-test_results.txt：最终结果
+-perl_script：perl脚本用于验证结果对与否(包含测试结果)
+	-test_gen.pl：生成测试文件
+	-verify.pl：读入test_results.txt,进行结果比对，输出在true_or_false中

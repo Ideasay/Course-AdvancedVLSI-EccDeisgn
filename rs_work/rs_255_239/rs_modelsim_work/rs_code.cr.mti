@@ -1,0 +1,213 @@
+C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself/rsdec_syn.v {1 {vlog -work work -stats=none C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself/rsdec_syn.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rsdec_syn_m0
+-- Compiling module rsdec_syn_m1
+-- Compiling module rsdec_syn_m2
+-- Compiling module rsdec_syn_m3
+-- Compiling module rsdec_syn_m4
+-- Compiling module rsdec_syn_m5
+-- Compiling module rsdec_syn_m6
+-- Compiling module rsdec_syn_m7
+-- Compiling module rsdec_syn_m8
+-- Compiling module rsdec_syn_m9
+-- Compiling module rsdec_syn_m10
+-- Compiling module rsdec_syn_m11
+-- Compiling module rsdec_syn_m12
+-- Compiling module rsdec_syn_m13
+-- Compiling module rsdec_syn_m14
+-- Compiling module rsdec_syn_m15
+-- Compiling module rsdec_syn
+
+Top level modules:
+	rsdec_syn
+
+} {} {}} C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself/sigin.v {1 {vlog -work work -stats=none C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself/sigin.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sigin
+
+Top level modules:
+	sigin
+
+} {} {}} C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself_2.0/decode.v {1 {vlog -work work -stats=none C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself_2.0/decode.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decode
+
+Top level modules:
+	decode
+
+} {} {}} C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself_2.0/test-bench.v {1 {vlog -work work -stats=none {C:\Users\zhengxjie\Desktop\all_sim+MATLAB+doc\rs_modelsim_myself_2.0\test-bench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself_2.0/rsdec_berl.v {1 {vlog -work work -stats=none C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself_2.0/rsdec_berl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rsdec_berl
+-- Compiling module rsdec_berl_multiply
+-- Compiling module multiply
+
+Top level modules:
+	rsdec_berl
+
+} {} {}} C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself/decode.v {1 {vlog -work work -stats=none {C:\Users\zhengxjie\Desktop\all_sim+MATLAB+doc\rs_modelsim_myself\decode.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decode
+
+Top level modules:
+	decode
+
+} {} {}} C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself/inverse.v {1 {vlog -work work -stats=none C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself/inverse.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module inverse
+
+Top level modules:
+	inverse
+
+} {} {}} C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself/test-bench.v {1 {vlog -work work -stats=none C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself/test-bench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself/rsdec_berl.v {1 {vlog -work work -stats=none C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself/rsdec_berl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rsdec_berl
+-- Compiling module rsdec_berl_multiply
+-- Compiling module multiply
+
+Top level modules:
+	rsdec_berl
+
+} {} {}} C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself_2.0/rsdec_chien.v {1 {vlog -work work -stats=none C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself_2.0/rsdec_chien.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rsdec_chien_scale0
+-- Compiling module rsdec_chien_scale1
+-- Compiling module rsdec_chien_scale2
+-- Compiling module rsdec_chien_scale3
+-- Compiling module rsdec_chien_scale4
+-- Compiling module rsdec_chien_scale5
+-- Compiling module rsdec_chien_scale6
+-- Compiling module rsdec_chien_scale7
+-- Compiling module rsdec_chien_scale8
+-- Compiling module rsdec_chien_scale9
+-- Compiling module rsdec_chien_scale10
+-- Compiling module rsdec_chien_scale11
+-- Compiling module rsdec_chien_scale12
+-- Compiling module rsdec_chien_scale13
+-- Compiling module rsdec_chien_scale14
+-- Compiling module rsdec_chien_scale15
+-- Compiling module rsdec_chien
+
+Top level modules:
+	rsdec_chien
+
+} {} {}} C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself_2.0/sigin.v {1 {vlog -work work -stats=none C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself_2.0/sigin.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sigin
+
+Top level modules:
+	sigin
+
+} {} {}} C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself_2.0/rsdec_syn.v {1 {vlog -work work -stats=none C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself_2.0/rsdec_syn.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rsdec_syn_m0
+-- Compiling module rsdec_syn_m1
+-- Compiling module rsdec_syn_m2
+-- Compiling module rsdec_syn_m3
+-- Compiling module rsdec_syn_m4
+-- Compiling module rsdec_syn_m5
+-- Compiling module rsdec_syn_m6
+-- Compiling module rsdec_syn_m7
+-- Compiling module rsdec_syn_m8
+-- Compiling module rsdec_syn_m9
+-- Compiling module rsdec_syn_m10
+-- Compiling module rsdec_syn_m11
+-- Compiling module rsdec_syn_m12
+-- Compiling module rsdec_syn_m13
+-- Compiling module rsdec_syn_m14
+-- Compiling module rsdec_syn_m15
+-- Compiling module rsdec_syn
+
+Top level modules:
+	rsdec_syn
+
+} {} {}} C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself_2.0/rsencode.v {1 {vlog -work work -stats=none C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself_2.0/rsencode.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rs_enc_m0
+-- Compiling module rs_enc_m1
+-- Compiling module rs_enc_m2
+-- Compiling module rs_enc_m3
+-- Compiling module rs_enc_m4
+-- Compiling module rs_enc_m5
+-- Compiling module rs_enc_m6
+-- Compiling module rs_enc_m7
+-- Compiling module rs_enc_m8
+-- Compiling module rs_enc_m9
+-- Compiling module rs_enc_m10
+-- Compiling module rs_enc_m11
+-- Compiling module rs_enc_m12
+-- Compiling module rs_enc_m13
+-- Compiling module rs_enc_m14
+-- Compiling module rs_enc_m15
+-- Compiling module rs_enc
+
+Top level modules:
+	rs_enc
+
+} {} {}} C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself_2.0/inverse.v {1 {vlog -work work -stats=none C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself_2.0/inverse.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module inverse
+
+Top level modules:
+	inverse
+
+} {} {}} C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself/rsencode.v {1 {vlog -work work -stats=none {C:\Users\zhengxjie\Desktop\all_sim+MATLAB+doc\rs_modelsim_myself\rsencode.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rs_enc_m0
+-- Compiling module rs_enc_m1
+-- Compiling module rs_enc_m2
+-- Compiling module rs_enc_m3
+-- Compiling module rs_enc_m4
+-- Compiling module rs_enc_m5
+-- Compiling module rs_enc_m6
+-- Compiling module rs_enc_m7
+-- Compiling module rs_enc_m8
+-- Compiling module rs_enc_m9
+-- Compiling module rs_enc_m10
+-- Compiling module rs_enc_m11
+-- Compiling module rs_enc_m12
+-- Compiling module rs_enc_m13
+-- Compiling module rs_enc_m14
+-- Compiling module rs_enc_m15
+-- Compiling module rs_enc
+
+Top level modules:
+	rs_enc
+
+} {} {}} C:/Users/zhengxjie/Desktop/all_sim+MATLAB+doc/rs_modelsim_myself/rsdec_chien.v {1 {vlog -work work -stats=none {C:\Users\zhengxjie\Desktop\all_sim+MATLAB+doc\rs_modelsim_myself\rsdec_chien.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rsdec_chien_scale0
+-- Compiling module rsdec_chien_scale1
+-- Compiling module rsdec_chien_scale2
+-- Compiling module rsdec_chien_scale3
+-- Compiling module rsdec_chien_scale4
+-- Compiling module rsdec_chien_scale5
+-- Compiling module rsdec_chien_scale6
+-- Compiling module rsdec_chien_scale7
+-- Compiling module rsdec_chien_scale8
+-- Compiling module rsdec_chien_scale9
+-- Compiling module rsdec_chien_scale10
+-- Compiling module rsdec_chien_scale11
+-- Compiling module rsdec_chien_scale12
+-- Compiling module rsdec_chien_scale13
+-- Compiling module rsdec_chien_scale14
+-- Compiling module rsdec_chien_scale15
+-- Compiling module rsdec_chien
+
+Top level modules:
+	rsdec_chien
+
+} {} {}}
